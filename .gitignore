@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
-
+# Qt
+*.pro.user
+*.pro.user.*
+build-*/
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.qmlc
+*.jsc
+Makefile*
+*.o
 # Compiled Object files
 *.slo
 *.lo
